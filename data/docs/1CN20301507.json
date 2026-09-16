@@ -1,0 +1,109 @@
+{
+ "ref": "1CN20301507",
+ "refDisplay": "1CN2 0 30 1507",
+ "title": "TUBE DE MISE A L’ATMOSPHERE",
+ "nature": "",
+ "applicability": "(Z003) ZX BERLINE 3PTES CARBURATION TU1 DIRECTION NON ASSISTEE",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F4K",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F4T",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F6R",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F4V",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F4W",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F5A",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F5C",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F2J",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F4T",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F6R",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F4V",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F4Q",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F4W",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F6G",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F5C",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F2J",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DC5&B0F=B0F6G",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DC5&B0F=B0F5C",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DC5&B0F=B0F2J",
+   "fctId": "FCT0010"
+  }
+ ]
+}

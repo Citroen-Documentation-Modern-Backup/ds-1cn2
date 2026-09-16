@@ -1,0 +1,28 @@
+{
+ "ref": "028107743420",
+ "refDisplay": "0281 07 743420",
+ "title": "CALANDRE ENJOLIVEUR",
+ "nature": "",
+ "applicability": " JUSQU’A OPR 06383",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F2J",
+   "fctId": "FCT0108"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F2J",
+   "fctId": "FCT0108"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DC5&B0F=B0F2J",
+   "fctId": "FCT0108"
+  }
+ ]
+}

@@ -1,0 +1,163 @@
+{
+ "ref": "028108922536",
+ "refDisplay": "0281 08 922536",
+ "title": "ARMATURE SIEGE AV - GLISSIERE - CARTER",
+ "nature": "",
+ "applicability": "SX ET CONDUITE A DROITE ET SANS REGLAGE LOMBAIRE CONDUCT ET REHAUSSE CONDUCTEUR REGLAGE PARALLELE DEPUIS OPR 07238",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F4K",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F4K",
+   "fctId": "FCT0333"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F4T",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F4T",
+   "fctId": "FCT0333"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F6R",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F6R",
+   "fctId": "FCT0333"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F4V",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F4V",
+   "fctId": "FCT0333"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F4W",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F4W",
+   "fctId": "FCT0333"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F6Q",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F6Q",
+   "fctId": "FCT0333"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F2M",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F2M",
+   "fctId": "FCT0333"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F5A",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F5A",
+   "fctId": "FCT0333"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F2P",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F2P",
+   "fctId": "FCT0333"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F4Y",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F4Y",
+   "fctId": "FCT0333"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F5C",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F5C",
+   "fctId": "FCT0333"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F2J",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F2J",
+   "fctId": "FCT0333"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F5T",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F5T",
+   "fctId": "FCT0333"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F2G",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F2G",
+   "fctId": "FCT0333"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F2U",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F2U",
+   "fctId": "FCT0333"
+  }
+ ]
+}

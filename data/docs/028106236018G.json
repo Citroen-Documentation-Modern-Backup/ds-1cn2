@@ -1,0 +1,28 @@
+{
+ "ref": "028106236018G",
+ "refDisplay": "0281 06 236018G",
+ "title": "DURIT RACCORD DE REFROIDISSEMENT",
+ "nature": "",
+ "applicability": "BVA DEPUIS OPR 06933",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F4Y",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F4Y",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DC5&B0F=B0F4Y",
+   "fctId": "FCT0009"
+  }
+ ]
+}

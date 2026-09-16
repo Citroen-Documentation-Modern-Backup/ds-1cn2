@@ -1,0 +1,144 @@
+{
+ "ref": "1CN203056133_1",
+ "refDisplay": "1CN2 0 305 6133",
+ "title": "PARE CHOCS + 2AILES + CAPOT",
+ "nature": "",
+ "applicability": "(Z003) ZX BERLINE 3PTES CARBURATION TU1 DIRECTION NON ASSISTEE JUSQU’A OPR 06443",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F4K",
+   "fctId": "FCT0104"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F4T",
+   "fctId": "FCT0104"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F6R",
+   "fctId": "FCT0104"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F4V",
+   "fctId": "FCT0104"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F4W",
+   "fctId": "FCT0104"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F2M",
+   "fctId": "FCT0104"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F5A",
+   "fctId": "FCT0104"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F4Y",
+   "fctId": "FCT0104"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F5C",
+   "fctId": "FCT0104"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F2G",
+   "fctId": "FCT0104"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F2U",
+   "fctId": "FCT0104"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F4T",
+   "fctId": "FCT0104"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F6R",
+   "fctId": "FCT0104"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F4V",
+   "fctId": "FCT0104"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F4Q",
+   "fctId": "FCT0104"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F4W",
+   "fctId": "FCT0104"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F6G",
+   "fctId": "FCT0104"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F2M",
+   "fctId": "FCT0104"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F5Z",
+   "fctId": "FCT0104"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F2N",
+   "fctId": "FCT0104"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F4Y",
+   "fctId": "FCT0104"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F5C",
+   "fctId": "FCT0104"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F2E",
+   "fctId": "FCT0104"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DC5&B0F=B0F4W",
+   "fctId": "FCT0104"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DC5&B0F=B0F2M",
+   "fctId": "FCT0104"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DC5&B0F=B0F4Y",
+   "fctId": "FCT0104"
+  }
+ ]
+}

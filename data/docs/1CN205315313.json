@@ -1,0 +1,74 @@
+{
+ "ref": "1CN205315313",
+ "refDisplay": "1CN2 0 531 5313",
+ "title": "COMPRESSEUR D’AVERTISSEUR",
+ "nature": "",
+ "applicability": "(Z00U) ZX BERLINE 3PTES INJECTION XU5JP DIRECTION NON ASSISTEE OU (Z00R) ZX BERLINE 3PTES INJECTION XU5JP DIRECTION ASSISTEE",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F2M",
+   "fctId": "FCT0314"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F4Y",
+   "fctId": "FCT0314"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F5T",
+   "fctId": "FCT0314"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F2G",
+   "fctId": "FCT0314"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F2U",
+   "fctId": "FCT0314"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F2M",
+   "fctId": "FCT0314"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F2N",
+   "fctId": "FCT0314"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F4Y",
+   "fctId": "FCT0314"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F2E",
+   "fctId": "FCT0314"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F5T",
+   "fctId": "FCT0314"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DC5&B0F=B0F2M",
+   "fctId": "FCT0314"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DC5&B0F=B0F4Y",
+   "fctId": "FCT0314"
+  }
+ ]
+}

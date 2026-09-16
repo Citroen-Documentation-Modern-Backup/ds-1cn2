@@ -1,0 +1,53 @@
+{
+ "ref": "028104454120",
+ "refDisplay": "0281 04 454120",
+ "title": "BOITIER ANTIBLOCAGE CALCULATEUR",
+ "nature": "",
+ "applicability": "ANTI-BLOCAGE ROUE DEPUIS OPR 06749",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DC5&B0F=B0F4W",
+   "fctId": "FCT0340"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DC5&B0F=B0F6Q",
+   "fctId": "FCT0340"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DC5&B0F=B0F6G",
+   "fctId": "FCT0340"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DC5&B0F=B0F2M",
+   "fctId": "FCT0340"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DC5&B0F=B0F2P",
+   "fctId": "FCT0340"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DC5&B0F=B0F4Y",
+   "fctId": "FCT0340"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DC5&B0F=B0F5C",
+   "fctId": "FCT0340"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DC5&B0F=B0F2J",
+   "fctId": "FCT0340"
+  }
+ ]
+}

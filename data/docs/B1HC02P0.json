@@ -1,0 +1,65 @@
+{
+ "ref": "B1HC02P0",
+ "refDisplay": "B1HC02P0",
+ "title": "Diagnostic  :  injection BOSCH MA 3.0",
+ "nature": "Lecture défaut(s)",
+ "applicability": "SYSTEME INJECTION BOSCH",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F4T",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F4T",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F4W",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F4W",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F4T",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F4T",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F4W",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F4W",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DC5&B0F=B0F4W",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DC5&B0F=B0F4W",
+   "fctId": "FCT0010"
+  }
+ ]
+}

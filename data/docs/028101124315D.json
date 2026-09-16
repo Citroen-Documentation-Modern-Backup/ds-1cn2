@@ -1,0 +1,23 @@
+{
+ "ref": "028101124315D",
+ "refDisplay": "0281 01 124315D",
+ "title": "SOUPAPES GUIDES CULBUTEURS",
+ "nature": "",
+ "applicability": " JUSQU’A OPR 07609",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F6R",
+   "fctId": "FCT0006"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F6R",
+   "fctId": "FCT0006"
+  }
+ ]
+}

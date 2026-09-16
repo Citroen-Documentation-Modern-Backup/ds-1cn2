@@ -1,0 +1,18 @@
+{
+ "ref": "028101112075",
+ "refDisplay": "0281 01 112075",
+ "title": "CULASSE - COUVRE CULASSE",
+ "nature": "",
+ "applicability": "DEPOL CEE 19-5 (MOTEUR)",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F5A",
+   "fctId": "FCT0006"
+  }
+ ]
+}

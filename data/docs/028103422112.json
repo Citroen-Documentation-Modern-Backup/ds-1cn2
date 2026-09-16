@@ -1,0 +1,48 @@
+{
+ "ref": "028103422112",
+ "refDisplay": "0281 03 422112",
+ "title": "TRAVERSES SUSP AR BARRES RESSORT",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F2M",
+   "fctId": "FCT0031"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F2P",
+   "fctId": "FCT0031"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F4Y",
+   "fctId": "FCT0031"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F2M",
+   "fctId": "FCT0031"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F5Z",
+   "fctId": "FCT0031"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F2P",
+   "fctId": "FCT0031"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F4Y",
+   "fctId": "FCT0031"
+  }
+ ]
+}

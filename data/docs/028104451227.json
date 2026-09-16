@@ -1,0 +1,18 @@
+{
+ "ref": "028104451227",
+ "refDisplay": "0281 04 451227",
+ "title": "FREINS AVANT DISQUE ETRIER PLAQUETTES",
+ "nature": "",
+ "applicability": "(RC) CHINE ET ANTI-BLOCAGE ROUE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F2N",
+   "fctId": "FCT0040"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "ref": "028102212040A",
+ "refDisplay": "0281 02 212040A",
+ "title": "BOUGIES - MODULE - BOBINE ALLUMAGE",
+ "nature": "",
+ "applicability": " DEPUIS OPR 05783 JUSQU’A OPR 06884",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F4W",
+   "fctId": "FCT0013"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F4W",
+   "fctId": "FCT0013"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DC5&B0F=B0F4W",
+   "fctId": "FCT0013"
+  }
+ ]
+}

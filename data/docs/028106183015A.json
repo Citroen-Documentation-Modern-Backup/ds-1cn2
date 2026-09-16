@@ -1,0 +1,23 @@
+{
+ "ref": "028106183015A",
+ "refDisplay": "0281 06 183015A",
+ "title": "COLLECTEUR CATALYSEUR ECHAPP AV",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F4V",
+   "fctId": "FCT0011"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F4V",
+   "fctId": "FCT0011"
+  }
+ ]
+}

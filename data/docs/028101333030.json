@@ -1,0 +1,18 @@
+{
+ "ref": "028101333030",
+ "refDisplay": "0281 01 333030",
+ "title": "REFROIDISSEMENT D’HUILE",
+ "nature": "",
+ "applicability": "BVA AL4 ET (RC) CHINE JUSQU’A OPR 10614",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F2N",
+   "fctId": "FCT0017"
+  }
+ ]
+}

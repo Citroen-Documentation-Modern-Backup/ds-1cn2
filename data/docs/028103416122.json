@@ -1,0 +1,28 @@
+{
+ "ref": "028103416122",
+ "refDisplay": "0281 03 416122",
+ "title": "ROUES",
+ "nature": "",
+ "applicability": "MONTAGE ROUE TOLE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F2J",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F2J",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DC5&B0F=B0F2J",
+   "fctId": "FCT0023"
+  }
+ ]
+}

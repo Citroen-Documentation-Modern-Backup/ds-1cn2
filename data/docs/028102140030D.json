@@ -1,0 +1,23 @@
+{
+ "ref": "028102140030D",
+ "refDisplay": "0281 02 140030D",
+ "title": "POMPE INJECTION SUPPORT PIGNON",
+ "nature": "",
+ "applicability": "DEPOL CEE 95 (MOTEUR) ET SANS CONTACT CODE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F6G",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DC5&B0F=B0F6G",
+   "fctId": "FCT0010"
+  }
+ ]
+}

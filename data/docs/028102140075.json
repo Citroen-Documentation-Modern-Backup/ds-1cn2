@@ -1,0 +1,18 @@
+{
+ "ref": "028102140075",
+ "refDisplay": "0281 02 140075",
+ "title": "INJECTEURS - FAISCEAU INJECTION",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F5A",
+   "fctId": "FCT0010"
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "ref": "B1BB2DP0",
+ "refDisplay": "B1BB2DP0",
+ "title": "Caractéristiques : suspension ensemble moteur-boîte de vitesses",
+ "nature": "Caractéristiques - identifications",
+ "applicability": " DEPUIS OPR 7245",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F6R",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F6R",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F6R",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F6R",
+   "fctId": "FCT0017"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "028103434450",
+ "refDisplay": "0281 03 434450",
+ "title": "BRAS BUTEES MOYEUX ROULEMENTS ARRIERE",
+ "nature": "",
+ "applicability": "DISQUES AV VENTILES/DISQUES AR",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F2G",
+   "fctId": "FCT0030"
+  }
+ ]
+}

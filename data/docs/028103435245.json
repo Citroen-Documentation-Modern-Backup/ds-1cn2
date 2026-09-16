@@ -1,0 +1,33 @@
+{
+ "ref": "028103435245",
+ "refDisplay": "0281 03 435245",
+ "title": "BARRES ANTIDEVERS AVANT",
+ "nature": "",
+ "applicability": " DEPUIS OPR 05684",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F5T",
+   "fctId": "FCT0029"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F2G",
+   "fctId": "FCT0029"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F2E",
+   "fctId": "FCT0029"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F5T",
+   "fctId": "FCT0029"
+  }
+ ]
+}

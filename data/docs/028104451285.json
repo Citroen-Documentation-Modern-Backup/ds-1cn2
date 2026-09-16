@@ -1,0 +1,23 @@
+{
+ "ref": "028104451285",
+ "refDisplay": "0281 04 451285",
+ "title": "FREINS AVANT DISQUE ETRIER PLAQUETTES",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DC5&B0F=B0F5C",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DC5&B0F=B0F2J",
+   "fctId": "FCT0040"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "ref": "028102170015G",
+ "refDisplay": "0281 02 170015G",
+ "title": "FILTRE AIR RACCORD RESONATEUR AIR",
+ "nature": "",
+ "applicability": "ATMOSPHERE POUSSIERES",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F4V",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F4V",
+   "fctId": "FCT0010"
+  }
+ ]
+}

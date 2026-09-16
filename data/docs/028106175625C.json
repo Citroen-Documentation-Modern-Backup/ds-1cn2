@@ -1,0 +1,23 @@
+{
+ "ref": "028106175625C",
+ "refDisplay": "0281 06 175625C",
+ "title": "BOITIER SONDE TEMPERATURE ECHAPP",
+ "nature": "",
+ "applicability": "(J) JAPON DEPUIS OPR 06444 JUSQU’A OPR 07244",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F5T",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F5T",
+   "fctId": "FCT0012"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "ref": "B1HB1VP0",
+ "refDisplay": "B1HB1VP0",
+ "title": "Caractéristiques : système d’injection multipoints MAGNETI MARELLI 1 AP 10",
+ "nature": "Caractéristiques - identifications",
+ "applicability": "SYSTEME INJECTION MAGNETI MARELLI",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F2U",
+   "fctId": "FCT0010"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "028106183035A",
+ "refDisplay": "0281 06 183035A",
+ "title": "COLLECTEUR CATALYSEUR ECHAPP AV",
+ "nature": "",
+ "applicability": "DEPOL US 83 (MOTEUR) DEPUIS OPR 05715 JUSQU’A OPR 06018",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F5Z",
+   "fctId": "FCT0011"
+  }
+ ]
+}

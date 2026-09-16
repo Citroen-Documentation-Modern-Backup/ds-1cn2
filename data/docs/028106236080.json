@@ -1,0 +1,18 @@
+{
+ "ref": "028106236080",
+ "refDisplay": "0281 06 236080",
+ "title": "BOITIER EAU - THERMOCONTACT - SONDE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F4K",
+   "fctId": "FCT0009"
+  }
+ ]
+}

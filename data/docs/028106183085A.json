@@ -1,0 +1,18 @@
+{
+ "ref": "028106183085A",
+ "refDisplay": "0281 06 183085A",
+ "title": "COLLECTEUR CATALYSEUR ECHAPP AV",
+ "nature": "",
+ "applicability": "DEPOL CEE 95 (MOTEUR) DEPUIS OPR 07245",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F5A",
+   "fctId": "FCT0011"
+  }
+ ]
+}

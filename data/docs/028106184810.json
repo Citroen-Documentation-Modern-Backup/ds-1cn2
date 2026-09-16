@@ -1,0 +1,23 @@
+{
+ "ref": "028106184810",
+ "refDisplay": "0281 06 184810",
+ "title": "ECHAPPEMENT INTERMEDIAIRE ET AR",
+ "nature": "",
+ "applicability": " JUSQU’A OPR 07244",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F4T",
+   "fctId": "FCT0011"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F4T",
+   "fctId": "FCT0011"
+  }
+ ]
+}

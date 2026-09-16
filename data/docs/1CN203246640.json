@@ -1,0 +1,24 @@
+{
+ "ref": "1CN203246640",
+ "refDisplay": "1CN2 0 324 6640",
+ "title": "ELARGISSEUR D’AILE AR 1 COTE",
+ "nature": "",
+ "applicability": "(Z017) ZX BERLINE 3PTES INJECTION XU10J4 DIRECTION ASSISTEE",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F2G",
+   "fctId": "FCT0118"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F2U",
+   "fctId": "FCT0118"
+  }
+ ]
+}

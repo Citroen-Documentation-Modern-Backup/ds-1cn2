@@ -1,0 +1,18 @@
+{
+ "ref": "028106184830",
+ "refDisplay": "0281 06 184830",
+ "title": "ECHAPPEMENT INTERMEDIAIRE ET AR",
+ "nature": "",
+ "applicability": "DEPOL 15-04 (MOTEUR) JUSQU’A OPR 06018",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F5Z",
+   "fctId": "FCT0011"
+  }
+ ]
+}

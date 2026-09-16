@@ -1,0 +1,18 @@
+{
+ "ref": "028106175515",
+ "refDisplay": "0281 06 175515",
+ "title": "DEPOLLUTION CANISTER ABSORBEUR",
+ "nature": "",
+ "applicability": "CONDUITE A GAUCHE JUSQU’A OPR 05655",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F4Q",
+   "fctId": "FCT0012"
+  }
+ ]
+}

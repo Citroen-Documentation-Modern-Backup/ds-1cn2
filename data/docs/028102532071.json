@@ -1,0 +1,23 @@
+{
+ "ref": "028102532071",
+ "refDisplay": "0281 02 532071",
+ "title": "ALTERNATEUR ET FIXATIONS",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F6G",
+   "fctId": "FCT0303"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DC5&B0F=B0F6G",
+   "fctId": "FCT0303"
+  }
+ ]
+}

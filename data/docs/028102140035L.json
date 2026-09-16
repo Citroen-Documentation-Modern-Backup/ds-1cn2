@@ -1,0 +1,18 @@
+{
+ "ref": "028102140035L",
+ "refDisplay": "0281 02 140035L",
+ "title": "DETAIL POMPE INJECTION ELECTROVANNE",
+ "nature": "",
+ "applicability": " SAUF DEPOL CEE 95 (MOTEUR)",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F5A",
+   "fctId": "FCT0010"
+  }
+ ]
+}

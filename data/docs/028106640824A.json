@@ -1,0 +1,33 @@
+{
+ "ref": "028106640824A",
+ "refDisplay": "0281 06 640824A",
+ "title": "TUYAU FLUIDE REFRI - FIXATIONS",
+ "nature": "",
+ "applicability": "FREON R12 ET REFRIGERATION",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F5A",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F5C",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F5C",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DC5&B0F=B0F5C",
+   "fctId": "FCT0347"
+  }
+ ]
+}

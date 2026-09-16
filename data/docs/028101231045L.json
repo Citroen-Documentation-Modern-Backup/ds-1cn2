@@ -1,0 +1,23 @@
+{
+ "ref": "028101231045L",
+ "refDisplay": "0281 01 231045L",
+ "title": "POMPE A EAU JOINT COLLECTEUR EAU",
+ "nature": "",
+ "applicability": "BVA",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F5T",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F5T",
+   "fctId": "FCT0009"
+  }
+ ]
+}

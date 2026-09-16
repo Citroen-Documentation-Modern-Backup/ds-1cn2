@@ -1,0 +1,23 @@
+{
+ "ref": "028105501243",
+ "refDisplay": "0281 05 501243",
+ "title": "FAISCEAU MOTEUR",
+ "nature": "",
+ "applicability": " DEPUIS OPR 06629 JUSQU’A OPR 06747",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F5T",
+   "fctId": "FCT0308"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F5T",
+   "fctId": "FCT0308"
+  }
+ ]
+}

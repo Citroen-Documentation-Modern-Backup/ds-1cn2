@@ -1,0 +1,18 @@
+{
+ "ref": "028103440030",
+ "refDisplay": "0281 03 440030",
+ "title": "POMPE ASSISTANCE DIRECTION",
+ "nature": "",
+ "applicability": "DIRECTION ASSISTEE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F2E",
+   "fctId": "FCT0339"
+  }
+ ]
+}

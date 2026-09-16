@@ -1,0 +1,23 @@
+{
+ "ref": "028101330073",
+ "refDisplay": "0281 01 330073",
+ "title": "BOITE DE VITESSES MECANIQUE",
+ "nature": "",
+ "applicability": "BVM MA ET (XT) EXPORT",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F6G",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DC5&B0F=B0F6G",
+   "fctId": "FCT0017"
+  }
+ ]
+}

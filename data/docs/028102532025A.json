@@ -1,0 +1,23 @@
+{
+ "ref": "028102532025A",
+ "refDisplay": "0281 02 532025A",
+ "title": "ALTERNATEUR ET FIXATIONS",
+ "nature": "",
+ "applicability": "DIRECTION ASSISTEE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F5Z",
+   "fctId": "FCT0303"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F2E",
+   "fctId": "FCT0303"
+  }
+ ]
+}

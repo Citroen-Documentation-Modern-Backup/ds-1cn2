@@ -1,0 +1,28 @@
+{
+ "ref": "028101223011E",
+ "refDisplay": "0281 01 223011E",
+ "title": "CARTER HUILE FILTRE SONDE",
+ "nature": "",
+ "applicability": " DEPUIS OPR 07819",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F6Q",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F6Q",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DC5&B0F=B0F6Q",
+   "fctId": "FCT0008"
+  }
+ ]
+}

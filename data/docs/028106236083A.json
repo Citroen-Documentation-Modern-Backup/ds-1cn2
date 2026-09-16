@@ -1,0 +1,28 @@
+{
+ "ref": "028106236083A",
+ "refDisplay": "0281 06 236083A",
+ "title": "BOITIER EAU - THERMOCONTACT - SONDE",
+ "nature": "",
+ "applicability": " DEPUIS OPR 05783",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F4W",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F4W",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DC5&B0F=B0F4W",
+   "fctId": "FCT0009"
+  }
+ ]
+}

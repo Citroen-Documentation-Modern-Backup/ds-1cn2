@@ -1,0 +1,23 @@
+{
+ "ref": "028102170021",
+ "refDisplay": "0281 02 170021",
+ "title": "FILTRE AIR RACCORD RESONATEUR AIR",
+ "nature": "",
+ "applicability": "ATMOSPHERE NORMALE DEPUIS OPR 06265 JUSQU’A OPR 07238",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA3&B0F=B0F4T",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F4T",
+   "fctId": "FCT0010"
+  }
+ ]
+}

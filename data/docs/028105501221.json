@@ -1,0 +1,18 @@
+{
+ "ref": "028105501221",
+ "refDisplay": "0281 05 501221",
+ "title": "FAISCEAU MOTEUR",
+ "nature": "",
+ "applicability": " DEPUIS OPR 05656",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CN2",
+   "variantKey": "B0D=B0DA5&B0F=B0F5Z",
+   "fctId": "FCT0308"
+  }
+ ]
+}
