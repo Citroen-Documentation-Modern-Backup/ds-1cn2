@@ -1,18 +1,1 @@
-{
- "ref": "028102211260",
- "refDisplay": "0281 02 211260",
- "title": "DETAIL ALLUMEUR",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CN2",
-   "variantKey": "B0D=B0DA5&B0F=B0F2E",
-   "fctId": "FCT0013"
-  }
- ]
-}
+{"ref":"028102211260","refDisplay":"0281 02 211260","title":"DETAIL ALLUMEUR","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CN2","variantKey":"B0D=B0DA5&B0F=B0F2E","fctId":"FCT0013"}],"kind":"pr","appl":"{(?1CN2)(B0F2E)}{(?1CN2)(B0F5K)}","tree":["document",{},[["thesaurus",{"type":"10","code":"002116"},[]],["mpr",{"catal":"0281","grp":"45","grp2":"02","maj":"20110723","numfich":"211260"},[["appl",{},["{(?1CN2)(B0F2E)}{(?1CN2)(B0F5K)}"]],["sti",{"ident":"4501"},[]],["enssup",{},[["fourn",{},["13286R"]],["refd",{},["2525709A"]]]],["img",{"numfich":"00057691","path":"/img/pr/91/0005/00057691.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"002116","ref":"0000594035","refpg":"5940 35"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CN2)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"293, 220, 11","shape":"circle"},[]]]]]]]]]]}

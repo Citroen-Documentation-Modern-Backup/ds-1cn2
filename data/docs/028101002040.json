@@ -1,18 +1,1 @@
-{
- "ref": "028101002040",
- "refDisplay": "0281 01 002040",
- "title": "ENSEMBLE MOTEUR",
- "nature": "",
- "applicability": " JUSQU’A OPR 05782",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CN2",
-   "variantKey": "B0D=B0DA5&B0F=B0F4Q",
-   "fctId": "FCT0049"
-  }
- ]
-}
+{"ref":"028101002040","refDisplay":"0281 01 002040","title":"ENSEMBLE MOTEUR","nature":"","applicability":" JUSQU’A OPR 05782","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CN2","variantKey":"B0D=B0DA5&B0F=B0F4Q","fctId":"FCT0049"}],"kind":"pr","appl":"{(?1CN2)(B0F4Q)/($,,1,05782)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"013644"},[]],["thesaurus",{"type":"10","code":"013646"},[]],["thesaurus",{"type":"22","code":"P0001906"},[]],["mpr",{"catal":"0281","grp":"4","grp2":"01","maj":"20110723","numfich":"002040"},[["appl",{},["{(?1CN2)(B0F4Q)/($,,1,05782)/}"]],["sti",{"ident":"401"},[]],["obspage",{"ident":"P0001906"},[]],["img",{"numfich":"00095097","path":"/img/pr/97/0009/00095097.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"013644","obsnfp":"NFP","ref":"00000135K8","refpg":"0135 K8"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CN2)}"]]]],["reporg",{},[["monte",{},["(KDY)"]],["monte",{},["KDY"]]]]]],["pr",{"codesi":"013646","obsnfp":"NFP","ref":"00000139CH","refpg":"0139 CH"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CN2)(~2)}"]]]],["reporg",{},[["monte",{},["(KDY)"]],["monte",{},["KDY"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"300, 71, 11","shape":"circle"},[]]]]]]]]]]}

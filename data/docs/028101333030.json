@@ -1,18 +1,1 @@
-{
- "ref": "028101333030",
- "refDisplay": "0281 01 333030",
- "title": "REFROIDISSEMENT D’HUILE",
- "nature": "",
- "applicability": "BVA AL4 ET (RC) CHINE JUSQU’A OPR 10614",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CN2",
-   "variantKey": "B0D=B0DA5&B0F=B0F2N",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"028101333030","refDisplay":"0281 01 333030","title":"REFROIDISSEMENT D’HUILE","nature":"","applicability":"BVA AL4 ET (RC) CHINE JUSQU’A OPR 10614","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CN2","variantKey":"B0D=B0DA5&B0F=B0F2N","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CN2)(B0F2N)(DVQ09)(B0H50)/($,,1,10614)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"000257"},[]],["thesaurus",{"type":"10","code":"000446"},[]],["thesaurus",{"type":"10","code":"010141"},[]],["thesaurus",{"type":"21","code":"L0426437"},[]],["mpr",{"catal":"0281","grp":"100","grp2":"01","maj":"20110723","numfich":"333030"},[["appl",{},["{(?1CN2)(B0F2N)(DVQ09)(B0H50)/($,,1,10614)/}"]],["sti",{"ident":"10001"},[]],["img",{"numfich":"00084749","path":"/img/pr/49/0008/00084749.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000257","ref":"0000227559","refpg":"2275 59"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CN2)}"]],["obsligne",{"ident":"L0426437"},[]]]],["descomp",{},[["lib",{"langue":"01"},["11 LAMES"]]]]]],["interactivite",{"order":"05"},[["area",{"coords":"359, 239, 11","shape":"circle"},[]],["area",{"coords":"265, 284, 11","shape":"circle"},[]],["area",{"coords":"182, 62, 11","shape":"circle"},[]],["area",{"coords":"304, 262, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000446","ref":"0000227109","refpg":"2271 09"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CN2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["20X28 EP1,5"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"411, 209, 11","shape":"circle"},[]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"010141","ref":"0000227551","refpg":"2275 51"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CN2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["20X150-40,7"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"391, 77, 11","shape":"circle"},[]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"000446","ref":"0000227552","refpg":"2275 52"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CN2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["23,6X30-4,6"]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"304, 262, 11","shape":"circle"},[]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"000446","ref":"0000227553","refpg":"2275 53"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CN2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["67X72,5-3,6"]]]]]],["interactivite",{"order":"04"},[["area",{"coords":"265, 284, 11","shape":"circle"},[]]]]]]]]]]}

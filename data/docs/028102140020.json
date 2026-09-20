@@ -1,18 +1,1 @@
-{
- "ref": "028102140020",
- "refDisplay": "0281 02 140020",
- "title": "CARBURATEUR DETAILS CORPS INJECTION",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CN2",
-   "variantKey": "B0D=B0DA3&B0F=B0F4K",
-   "fctId": "FCT0010"
-  }
- ]
-}
+{"ref":"028102140020","refDisplay":"0281 02 140020","title":"CARBURATEUR DETAILS CORPS INJECTION","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CN2","variantKey":"B0D=B0DA3&B0F=B0F4K","fctId":"FCT0010"}],"kind":"pr","appl":"{(?1CN2)(B0F4K)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000140"},[]],["thesaurus",{"type":"10","code":"000290"},[]],["thesaurus",{"type":"10","code":"000819"},[]],["thesaurus",{"type":"10","code":"000331"},[]],["thesaurus",{"type":"10","code":"000407"},[]],["thesaurus",{"type":"10","code":"000814"},[]],["thesaurus",{"type":"10","code":"000869"},[]],["thesaurus",{"type":"10","code":"008588"},[]],["thesaurus",{"type":"10","code":"004651"},[]],["mpr",{"catal":"0281","grp":"34","grp2":"02","maj":"20110723","numfich":"140020"},[["appl",{},["{(?1CN2)(B0F4K)}"]],["sti",{"ident":"3401"},[]],["enssup",{},[["fourn",{},["18770B"]],["refd",{},["32 PBISA 16 REP 411/2"]]]],["img",{"numfich":"00057647","path":"/img/pr/47/0005/00057647.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000140","obsnfp":"NFP","ref":"00001401G3","refpg":"1401 G3"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CN2)}"]],["reffour",{},[["four",{},["18770B"]]]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"253, 189, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000290","ref":"95661864","refpg":"95 661 864"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CN2)}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"185, 85, 11","shape":"circle"},[]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"000819","obsnfp":"NFP","ref":"0000141187","refpg":"1411 87"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CN2)}"]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"437, 167, 11","shape":"circle"},[]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"000331","ref":"0000140805","refpg":"1408 05"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CN2)}"]]]]]],["interactivite",{"order":"04"},[["area",{"coords":"426, 246, 11","shape":"circle"},[]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"000407","ref":"00001416A5","refpg":"1416 A5"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CN2)}"]]]]]],["interactivite",{"order":"05"},[["area",{"coords":"206, 325, 11","shape":"circle"},[]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"000814","obsnfp":"NFP","ref":"00001417N6","refpg":"1417 N6"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CN2)}"]]]]]],["interactivite",{"order":"06"},[["area",{"coords":"430, 426, 11","shape":"circle"},[]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"000869","obsnfp":"NFP","ref":"00001417N7","refpg":"1417 N7"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CN2)}"]],["reffour",{},[["four",{},["18770B"]]]]]]]],["interactivite",{"order":"07"},[["area",{"coords":"223, 443, 11","shape":"circle"},[]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"008588","ref":"0000696213","refpg":"6962 13"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CN2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X17-0,8"]]]]]],["interactivite",{"order":"08"},[["area",{"coords":"46, 5, 11","shape":"circle"},[]],["area",{"coords":"7, 158, 11","shape":"circle"},[]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"004651","ref":"0000693238","refpg":"6932 38"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CN2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8X125-6,5"]]]]]],["interactivite",{"order":"09"},[["area",{"coords":"7, 124, 11","shape":"circle"},[]],["area",{"coords":"104, 5, 11","shape":"circle"},[]]]]]]]]]]}

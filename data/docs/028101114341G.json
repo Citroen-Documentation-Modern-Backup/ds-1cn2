@@ -1,18 +1,1 @@
-{
- "ref": "028101114341G",
- "refDisplay": "0281 01 114341G",
- "title": "CARTER DE DISTRIBUTION BOUCHONS",
- "nature": "",
- "applicability": "(RC) CHINE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CN2",
-   "variantKey": "B0D=B0DA5&B0F=B0F2N",
-   "fctId": "FCT0007"
-  }
- ]
-}
+{"ref":"028101114341G","refDisplay":"0281 01 114341G","title":"CARTER DE DISTRIBUTION BOUCHONS","nature":"","applicability":"(RC) CHINE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CN2","variantKey":"B0D=B0DA5&B0F=B0F2N","fctId":"FCT0007"}],"kind":"pr","appl":"{(?1CN2)(B0F2N)(B0H50)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000150"},[]],["thesaurus",{"type":"10","code":"008579"},[]],["thesaurus",{"type":"10","code":"005670"},[]],["thesaurus",{"type":"21","code":"L0420995"},[]],["mpr",{"catal":"0281","grp":"14","grp2":"01","maj":"20110723","numfich":"114341G"},[["appl",{},["{(?1CN2)(B0F2N)(B0H50)}"]],["sti",{"ident":"1401"},[]],["img",{"numfich":"00057547","path":"/img/pr/47/0005/00057547.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000150","ref":"0000032080","refpg":"0320 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CN2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["SUP"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"20, 143, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000150","ref":"00000320L9","refpg":"0320 L9"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CN2)}"]],["obsligne",{"ident":"L0420995"},[]]]],["descomp",{},[["lib",{"langue":"01"},["INF"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"251, 390, 11","shape":"circle"},[]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"008579","ref":"0000032427","refpg":"0324 27"},[["pmont",{"coef":"07"},[["appl",{},["{(?1CN2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-12"]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"21, 107, 11","shape":"circle"},[]],["area",{"coords":"21, 447, 11","shape":"circle"},[]],["area",{"coords":"251, 201, 11","shape":"circle"},[]],["area",{"coords":"47, 5, 11","shape":"circle"},[]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"005670","ref":"0000032438","refpg":"0324 38"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CN2)}"]]]]]],["interactivite",{"order":"04"},[["area",{"coords":"250, 250, 11","shape":"circle"},[]],["area",{"coords":"100, 6, 11","shape":"circle"},[]]]]]]]]]]}

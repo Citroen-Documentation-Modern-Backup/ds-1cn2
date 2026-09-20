@@ -1,18 +1,1 @@
-{
- "ref": "028101330110",
- "refDisplay": "0281 01 330110",
- "title": "BOITE DE VITESSES AUTOMATIQUE",
- "nature": "",
- "applicability": "BVA 4HP14 JUSQU’A OPR 06062",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CN2",
-   "variantKey": "B0D=B0DA5&B0F=B0F5Z",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"028101330110","refDisplay":"0281 01 330110","title":"BOITE DE VITESSES AUTOMATIQUE","nature":"","applicability":"BVA 4HP14 JUSQU’A OPR 06062","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CN2","variantKey":"B0D=B0DA5&B0F=B0F5Z","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CN2)(B0F5Z)(DBM07)/($,,1,06062)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"009392"},[]],["thesaurus",{"type":"10","code":"009393"},[]],["mpr",{"catal":"0281","grp":"91","grp2":"01","maj":"20110723","numfich":"330110"},[["appl",{},["{(?1CN2)(B0F5Z)(DBM07)/($,,1,06062)/}"]],["sti",{"ident":"9101"},[]],["img",{"numfich":"00031953","path":"/img/pr/53/0003/00031953.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"009392","obsnfp":"NFP","ref":"96046905","refpg":"96 046 905"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CN2)(@BVA)}"]],["reffour",{},[["four",{},["99589Y"]],["refa",{},["(1036 000 116)"]]]]]],["descomp",{},[["lib",{"langue":"01"},["CP18X66 - CD46X43"]]]],["reporg",{},[["monte",{},["GZ56"]],["monte",{},["(GZ56)"]]]]]],["pr",{"codesi":"009393","obsnfp":"NFP","ref":"9790186108","refpg":"97 90 186 108"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CN2)(@BVA)(~2)}"]],["reffour",{},[["four",{},["99669K"]],["refa",{},["1036 000 116"]]]]]],["descomp",{},[["lib",{"langue":"01"},["CP 18X66 _ CD 46X53"]]]],["reporg",{},[["monte",{},["GZ56"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"238, 98, 11","shape":"circle"},[]]]]]]]]]]}
